@@ -10,3 +10,4 @@ simperby = "0.2.0"
 serde = { version = "1.0", features = ["derive"] }
 tokio = { version = "1.0", features = ["full"] }
 simperby-core = "0.2.0"
+hex = "0.4.3"
